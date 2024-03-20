@@ -1,3 +1,4 @@
+ ![AppIcon](./artwork/NotepadEncrypt_Headline.png)
 # NotepadEncrypt
 A simple notepad application in C#/WPF that can load and save files in plain text or using the .net encryption functionality.
 
